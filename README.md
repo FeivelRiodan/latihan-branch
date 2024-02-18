@@ -1,3 +1,2 @@
-# latihan-conflict
-=======
+# latihan-branch
 *latihan buat conflict*
