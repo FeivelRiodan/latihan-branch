@@ -1,2 +1,2 @@
 # latihan-branch
-latihan dicoding
+*latihan buat branch*
